@@ -13,13 +13,13 @@ window.WIRD_CONFIG = {
   appName: "Wird",
 
   firebase: {
-  apiKey: "AIzaSyClPACQH-qqEXdhiO3TOkP87rU8bPf6e3Y",
-  authDomain: "wird-groupe-863a9.firebaseapp.com",
-  projectId: "wird-groupe-863a9",
-  storageBucket: "wird-groupe-863a9.firebasestorage.app",
-  messagingSenderId: "425471204806",
-  appId: "1:425471204806:web:413617d6269608499666c7"
-};
+    apiKey: "AIzaSyClPACQH-qqEXdhiO3TOkP87rU8bPf6e3Y",
+    authDomain: "wird-groupe-863a9.firebaseapp.com",
+    projectId: "wird-groupe-863a9",
+    storageBucket: "wird-groupe-863a9.firebasestorage.app",
+    messagingSenderId: "425471204806",
+    appId: "1:425471204806:web:413617d6269608499666c7"
+  },
   // Exemple de ce que tu dois coller :
   // firebase: {
   //   apiKey: "AIza...",
